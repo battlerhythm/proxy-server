@@ -4,7 +4,7 @@
 `./proxy <log> <alpha> <listen-port> <fake-ip> <web-server-ip>`
 
 ## Running Network Simulator
-`./netsim.py ../topos/topo1 start`
+`./netsim.py ../topos/topo1 start`  
 `./netsim.py -l <log-file> ../topos/topo1 run`
 
 ## Graph link utilization, fairness and smoothness
